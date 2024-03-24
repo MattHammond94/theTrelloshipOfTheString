@@ -119,3 +119,4 @@ Below are screenshots of the landing page and posts page
   cd frontend
   JWT_SECRET=SUPER_SECRET npm run test
   ```
+
